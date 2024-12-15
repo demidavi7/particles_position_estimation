@@ -4,7 +4,10 @@ This repository contains the code, datasets, and report for a project focused on
 
 ## Project Structure
 
-├── datasets.txt # Description of datasets used in the project ├── position_estimation.py # Python implementation of position estimation using Random Forests ├── report.pdf # Detailed project report ├── requirements.txt # Python dependencies
+├── datasets.txt # Description of datasets used in the project
+├── position_estimation.py # Python implementation of position estimation using Random Forests
+├── report.pdf # Detailed project report
+├── requirements.txt # Python dependencies
 
 ## Overview
 
