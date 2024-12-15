@@ -1,6 +1,6 @@
 # Particles position estimation in Resistive Silicon Detectors
 
-This repository contains the code, dataset description, and report for a project focused on estimating the 2-D position of subatomic particles passing through Resistive Silicon Detectors (RSDs). The project leverages machine learning techniques to solve a multi-output regression task, using Random Forests to predict particle positions from noisy detector readings.
+This repository contains the code, datasets, and report for a project focused on estimating the 2-D position of subatomic particles passing through Resistive Silicon Detectors (RSDs). The project leverages machine learning techniques to solve a multi-output regression task, using Random Forests to predict particle positions from noisy detector readings.
 
 ## Project Structure
 
