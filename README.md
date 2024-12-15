@@ -4,8 +4,8 @@ This repository contains the code, datasets, and report for a project focused on
 
 ## Project Structure
 
-├── `datasets.txt`  (Link to the datasets used in the project) 
-├── `position_estimation.py`  (Python implementation of position estimation using Random Forests)  
+├── `datasets.txt`  (Link to the datasets used in the project)  
+├── `position_estimation.py`  (Python implementation of position estimation using Random Forests)    
 ├── `report.pdf`  (Detailed project report)  
 ├── `requirements.txt`  (Python dependencies)  
 
