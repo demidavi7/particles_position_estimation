@@ -1,6 +1,6 @@
 # Particles position estimation in Resistive Silicon Detectors
 
 
-## Team
+## Authors
 - Davide Elio Stefano Demicheli
-- Davide Fassio
+- Davide Fassio [@Davidefassio](https://github.com/Davidefassio)
