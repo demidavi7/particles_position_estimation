@@ -29,12 +29,10 @@ Key preprocessing steps include:
 To run the code, ensure you have Python installed and the necessary dependencies specified in `requirements.txt`. Install them using:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 Run the position_estimation.py script to train the Random Forest model and evaluate its performance:
-
-## bash
-Copia codice
 python position_estimation.py
 Ensure the datasets described in datasets.txt are available in the appropriate directory before executing the script.
 
