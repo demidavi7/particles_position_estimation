@@ -1,1 +1,1 @@
-# particles_position_estimation
+# Particles position estimation in Resistive Silicon Detectors
