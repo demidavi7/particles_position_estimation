@@ -16,7 +16,7 @@ The objective of this project is to:
 - Leverage the noise resistance and multi-output regression capabilities of Random Forests to improve estimation accuracy.
 - Analyze the performance of the model and optimize hyperparameters for better results.
 
-### Dataset Details
+## Dataset Details
 
 The dataset includes:
 - A **development set** with 385,500 labeled events.
