@@ -4,10 +4,10 @@ This repository contains the code, datasets, and report for a project focused on
 
 ## Project Structure
 
-├── datasets.txt # Description of datasets used in the project  
-├── position_estimation.py # Python implementation of position estimation using Random Forests  
-├── report.pdf # Detailed project report  
-├── requirements.txt # Python dependencies  
+├── `datasets.txt`  (Link to the datasets used in the project) 
+├── `position_estimation.py`  (Python implementation of position estimation using Random Forests)  
+├── `report.pdf`  (Detailed project report)  
+├── `requirements.txt`  (Python dependencies)  
 
 ## Overview
 
@@ -35,12 +35,11 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Run the position_estimation.py script to train the Random Forest model and evaluate its performance:
-python position_estimation.py
+Run the `position_estimation.py` script to train the Random Forest model and evaluate its performance.
 Ensure the datasets described in datasets.txt are available in the appropriate directory before executing the script.
 
 ## Report
-For an in-depth explanation of the methodology, dataset details, preprocessing, hyperparameter tuning, and results, refer to the report.pdf.
+For an in-depth explanation of the methodology, dataset details, preprocessing, hyperparameter tuning, and results, refer to the `report.pdf`.
 
 ## Highlights
 The model achieves an average estimation error of ~1%, significantly outperforming baseline solutions.
